@@ -1,0 +1,34 @@
+  body {
+    background: linear-gradient(#aee0eb 0%, #34b4eb 50%, #0d6678 100%);
+  }
+  
+  h1 {
+      font-family: MV Boli ;
+      font-size: xxx-large;
+      font-weight: 600;
+      color: crimson;
+  }
+
+  h4 {
+    font-family: Forte;
+    font-size: xx-large;
+    font-weight: 600;
+    color: green;
+}
+
+h5 {
+    font-family: Comic Sans MS ;
+    font-size: x-large;
+    font-weight: 600;
+    color: purple;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    font-size: medium;
+    background-color: hotpink;
+    color: white;
+    border-width: 2px;
+    border-color: white;
+}
